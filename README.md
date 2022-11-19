@@ -1,1 +1,1 @@
-# Google-LP
+This is my attempt at a landing page that is similar in design to the one the Odin Project showed.
